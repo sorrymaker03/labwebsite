@@ -34,3 +34,92 @@
   link: https://doi.org/f9j8sw
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1126/science.aah4199
+  title: "<i>Rb1</i>\n            and\n            <i>Trp53</i>\n            cooperate\
+    \ to suppress prostate cancer lineage plasticity, metastasis, and antiandrogen\
+    \ resistance"
+  authors:
+  - Sheng Yu Ku
+  - Spencer Rosario
+  - Yanqing Wang
+  - Ping Mu
+  - Mukund Seshadri
+  - Zachary W. Goodrich
+  - Maxwell M. Goodrich
+  - "David P. Labb\xE9"
+  - Eduardo Cortes Gomez
+  - Jianmin Wang
+  - Henry W. Long
+  - Bo Xu
+  - Myles Brown
+  - Massimo Loda
+  - Charles L. Sawyers
+  - Leigh Ellis
+  - David W. Goodrich
+  publisher: Science
+  date: '2017-01-06'
+  link: https://doi.org/f9j874
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/gad.1872909
+  title: "Genetic dissection of the <i>miR-17\u223C92</i> cluster of microRNAs in\
+    \ Myc-induced B-cell lymphomas"
+  authors:
+  - Ping Mu
+  - Yoon-Chi Han
+  - Doron Betel
+  - Evelyn Yao
+  - Massimo Squatrito
+  - Paul Ogrodowski
+  - Elisa de Stanchina
+  - Aleco D'Andrea
+  - Chris Sander
+  - Andrea Ventura
+  publisher: Genes &amp; Development
+  date: '2009-12-15'
+  link: https://doi.org/fnbv9k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/2159-8290.CD-23-0539
+  title: ZNF397 Deficiency Triggers TET2-Driven Lineage Plasticity and AR-Targeted
+    Therapy Resistance in Prostate Cancer
+  authors:
+  - Yaru Xu
+  - Yuqiu Yang
+  - Zhaoning Wang
+  - "Martin Sj\xF6str\xF6m"
+  - Yuyin Jiang
+  - Yitao Tang
+  - Siyuan Cheng
+  - Su Deng
+  - Choushi Wang
+  - Julisa Gonzalez
+  - Nickolas A. Johnson
+  - Xiang Li
+  - Xiaoling Li
+  - Lauren A. Metang
+  - Atreyi Mukherji
+  - Quanhui Xu
+  - Carla R. Tirado
+  - Garrett Wainwright
+  - Xinzhe Yu
+  - Spencer Barnes
+  - Mia Hofstad
+  - Yu Chen
+  - Hong Zhu
+  - Ariella B. Hanker
+  - Ganesh V. Raj
+  - Guanghui Zhu
+  - Housheng H. He
+  - Zhao Wang
+  - Carlos L. Arteaga
+  - Han Liang
+  - Felix Y. Feng
+  - Yunguan Wang
+  - Tao Wang
+  - Ping Mu
+  publisher: Cancer Discovery
+  date: '2024-04-08'
+  link: https://doi.org/g9d493
+  plugin: sources.py
+  file: sources.yaml
