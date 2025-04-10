@@ -13,7 +13,9 @@ Our lab is dedicated to uncovering the molecular mechanisms that drive resistanc
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="<i>SOX2</i>\n            promotes lineage plasticity and antiandrogen resistance\
+    \ in\n            <i>TP53</i>\n            - and\n            <i>RB1</i>\n   \
+    \         -deficient prostate cancer" style="rich" %}
 
 {% include section.html %}
 
