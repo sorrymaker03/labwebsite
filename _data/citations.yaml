@@ -144,3 +144,29 @@
   link: https://doi.org/g9d493
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1261/rna.2537911
+  title: Widespread regulatory activity of vertebrate microRNA* species
+  authors:
+  - Jr-Shiuan Yang
+  - Michael D. Phillips
+  - Doron Betel
+  - Ping Mu
+  - Andrea Ventura
+  - Adam C. Siepel
+  - Kevin C. Chen
+  - Eric C. Lai
+  publisher: RNA
+  date: '2010-12-22'
+  link: https://doi.org/bcj3k6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.4137/BCBCR.S25460
+  title: Targeting Breast Cancer Metastasis
+  authors:
+  - Xin Jin
+  - Ping Mu
+  publisher: 'Breast Cancer: Basic and Clinical Research'
+  date: '2015-01-01'
+  link: https://doi.org/gb9s2t
+  plugin: sources.py
+  file: sources.yaml
