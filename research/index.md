@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is dedicated to uncovering the molecular mechanisms that drive resistance to targeted and immune therapies in prostate and other cancers. We are also pioneering innovative therapeutic strategies to overcome these resistances, utilizing a range of state-of-the-art techniques, including 3D-cultured organoids, single-cell sequencing, and spatial transcriptomics.
 
 {% include section.html %}
 
