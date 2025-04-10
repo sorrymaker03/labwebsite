@@ -5,6 +5,6 @@
 
   # sorrymaker03's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[sorrymaker03.github.io/labwebsite](https://sorrymaker03.github.io/labwebsite)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
