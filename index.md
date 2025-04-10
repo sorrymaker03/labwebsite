@@ -3,7 +3,7 @@
 
 # sorrymaker03's Website
 
-An engaging 1-3 sentence description of your lab.
+The Mu Lab studies the mechanisms of resistance to anti-cancer therapy and novel therapeutic approaches to overcome resistance.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab is dedicated to uncovering the molecular mechanisms that drive resistance to targeted and immune therapies in prostate and other cancers. We are also pioneering innovative therapeutic strategies to overcome these resistances, utilizing a range of state-of-the-art techniques, including 3D-cultured organoids, single-cell sequencing, and spatial transcriptomics.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+xxx
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab is dedicated to uncovering the molecular mechanisms that drive resistance to targeted and immune therapies in prostate and other cancers. We are also pioneering innovative therapeutic strategies to overcome these resistances, utilizing a range of state-of-the-art techniques, including 3D-cultured organoids, single-cell sequencing, and spatial transcriptomics. Our recent work has been published in top-tier journals such as Cancer Cell (2020, 2023), Cancer Discovery (2024), Nature Cancer (2022), and Oncogene (2024).
 
 {%
   include button.html
