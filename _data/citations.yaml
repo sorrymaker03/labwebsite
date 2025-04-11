@@ -46,12 +46,11 @@
     \ promotes resistance through lineage switching."
   buttons:
   - type: source
-    link: https://pubmed.ncbi.nlm.nih.gov/28059768/
-  - type: website
+    title: Source
     link: https://www.science.org/doi/abs/10.1126/science.aah4307
-  tags:
-  - biology
-  - medicine
+  - type: website
+    title: Pubmed
+    link: https://pubmed.ncbi.nlm.nih.gov/28059768/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/science.aah4199
