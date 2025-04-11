@@ -1,12 +1,12 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Lineage Plasticity and Resistance
+  subtitle: Unravel the mechanisms of lineage plasticity-driven resistance and develop novel combination therapies to prevent or overcome this resistance.
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  #link: https://github.com/
+  description: Lineage plasticity is a hallmark of cancer and has emerged as a critical mechanism by which cancer cells circumvent targeted therapies. The pathways through which cancer cells attain lineage plasticity and resistance were previously obscure. We have delineated ectopic activation of JAK-STAT signaling as the pivotal mediator of lineage plasticity and AR therapy resistance (Nature Cancer, 2022).
+  #repo: greenelab/lab-website-template
+  #tags:
+  #- resource
 
 - title: Cool Package
   subtitle: a subtitle
