@@ -5,12 +5,14 @@
 # image: https://publisher.com/striking-image-for-your-paper.jpg
   buttons:
     - type: source
-      link: https://pubmed.ncbi.nlm.nih.gov/28059768/
-    - type: website
+      title: Source
       link: https://www.science.org/doi/abs/10.1126/science.aah4307
-  tags:
-    - biology
-    - medicine
+    - type: website
+      title: Pubmed
+      link: https://pubmed.ncbi.nlm.nih.gov/28059768/
+  #tags:
+  # - biology
+  # - medicine
 - id: doi:10.1126/science.aah4199
 - id: doi:10.1101/gad.1872909
 - id: doi:10.1158/2159-8290.CD-23-0539
