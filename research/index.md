@@ -14,6 +14,7 @@ Our lab is dedicated to uncovering the molecular mechanisms that drive resistanc
 ## Highlighted
 
 {% include citation.html lookup="Widespread regulatory activity of vertebrate microRNA* species" style="rich" %}
+{% include citation.html lookup="SOX2 promotes lineage plasticity and antiandrogen resistance in TP53 - and RB1 -deficient prostate cancer" style="rich" %}
 {% include section.html %}
 
 ## All
