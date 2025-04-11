@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Alumus
 nav:
   order: 3
   tooltip: About our team
