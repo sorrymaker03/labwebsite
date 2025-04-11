@@ -1,8 +1,8 @@
 ---
-title: Team
+title: Photo Gallery
 nav:
-  order: 3
-  tooltip: About our team
+  order: 7
+  tooltip: Photo Gallery
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
